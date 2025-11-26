@@ -79,4 +79,3 @@ npm run dev
 ## 🙌 Contributing
 Priya Bora, Ridhima Singh, Aaditya Saini
 
-Clone the repo:**  
